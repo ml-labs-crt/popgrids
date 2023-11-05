@@ -1,3 +1,5 @@
+Status: Archive (code is provided as-is, no updates expected)
+
 ## Assessing the Quality of Gridded Population Data for Quantifying the Population Living in Deprived Communities
 
 This repo contains the code to reproduce the results obtained on the paper "[Assessing the Quality of Gridded Population Data for Quantifying the Population Living in Deprived Communities](https://arxiv.org/abs/2011.12923)".
@@ -9,7 +11,7 @@ This repo contains the code to reproduce the results obtained on the paper "[Ass
 - ```paper_code.ipynb``` has the code used to process the gridded population data.
 - Results folder has the output for both datasets: ```resultsLandScan2010_repo.csv``` and ```resultsWorldPOP2010_repo.csv```.
 
-## Cite
+## Citation
 
 ```
 @misc{demattos2020assessing,
